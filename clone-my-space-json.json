@@ -1,7 +1,7 @@
 {
   "project": {
     "name": "Clone My Space",
-    "description": "Clone My Space est un logiciel pour Windows, Mac, Linux, qui permet aux utilisateurs de se connecter à un site web en ligne. Développé en Python, il utilise Tkinter pour créer une interface utilisateur conviviale. Ce projet démontre les principes de base de l'architecture client-serveur et de l'authentification des utilisateurs.",
+    "description": "Clone My Space is software for Windows, Mac, and Linux that allows users to connect to an online website. Developed in Python, it uses Tkinter to create a user-friendly interface. This project demonstrates the basic principles of client-server architecture and user authentication.",
     "license": {
       "type": "MIT License",
       "copyright": "Copyright (c) 2025 Fabien Conéjéro / FC84"
@@ -13,7 +13,7 @@
       "PHP",
       "requests"
     ],
-    "functionality": "Vérifie les informations d'identification des utilisateurs via une API PHP. Les utilisateurs saisissent leur nom d'utilisateur et leur mot de passe dans un formulaire, qui, une fois soumis, envoie une requête POST à un serveur distant. Le serveur PHP vérifie les informations d'identification et renvoie un message de succès ou d'erreur.",
+    "functionality": "Verifies user credentials via a PHP API. Users enter their username and password into a form, which, when submitted, sends a POST request to a remote server. The PHP server checks the credentials and returns a success or error message.",
     "keywords": [
       "python",
       "api",
